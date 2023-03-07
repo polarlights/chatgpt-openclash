@@ -6,7 +6,7 @@
 
 使用方法(到openclash配置文件处更新订阅链接)
 
-    https://api.dler.io/sub?target=clash&new_name=true&url=你的订阅链接（URL编码）&config=https%3A%2F%2Fraw.githubusercontent.com%2Fwgetnz%2Fchatgpt%2Fmain%2FFull.ini
+    https://api.dler.io/sub?target=clash&new_name=true&url=你的订阅链接（URL编码）&config=https%3A%2F%2Fraw.githubusercontent.com%2Fpolarlights%2Fchatgpt%2Fmain%2FFull.ini
     
 控制面板中，Chatgpt选择节点选择，节点选择选择除中国地区（包含香港）的其他节点即可
 
